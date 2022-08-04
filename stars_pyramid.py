@@ -6,6 +6,6 @@ for i in range(n):                            #loop for running number of row ti
         print(" ", end="")
     
     for l in range(2*i+1):                    #loop for printing stars in each row
-        print("* ", end="")   
+        print("*", end="")   
     print("\n")
     z=z-1
